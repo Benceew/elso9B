@@ -1,2 +1,3 @@
 # elso9B
-Ez az első sorun!
+Ez az első sorunk!
+Második sor
